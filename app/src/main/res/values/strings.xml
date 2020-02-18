@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">observer-patterns</string>
+    <string name="text_save">PEDIR BOCADILLO</string>
+    <string name="text_update">CONSULTAR ESTADO</string>
+</resources>
